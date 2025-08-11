@@ -7,6 +7,6 @@
   </title>
 </head>
   <body>
-    <p> saksham is nice boy he as big hand he as small ****</p>
+    <p> saksham is nice boy he as big hand </p>
   </body>
 </html>
